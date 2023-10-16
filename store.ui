@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>store</class>
+ <widget class="QMainWindow" name="store">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>575</width>
+    <height>460</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="returns">
+    <property name="geometry">
+     <rect>
+      <x>470</x>
+      <y>370</y>
+      <width>80</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Return </string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Character0">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>320</y>
+      <width>51</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>20</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Character1">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>320</y>
+      <width>51</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>30</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Character2">
+    <property name="geometry">
+     <rect>
+      <x>300</x>
+      <y>320</y>
+      <width>51</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>40</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Character3">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>320</y>
+      <width>51</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>40</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="Character0equip">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>340</y>
+      <width>21</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>RadioButton</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="Character1equip">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>340</y>
+      <width>21</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>RadioButton</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="Character2equip">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>340</y>
+      <width>21</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>RadioButton</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="Characterequip3">
+    <property name="geometry">
+     <rect>
+      <x>390</x>
+      <y>340</y>
+      <width>21</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>RadioButton</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="NewShuriken">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>410</y>
+      <width>51</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>50</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Health">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>410</y>
+      <width>51</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>45</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Exit">
+    <property name="geometry">
+     <rect>
+      <x>470</x>
+      <y>400</y>
+      <width>83</width>
+      <height>29</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Exit</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>575</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
